@@ -1,0 +1,19 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "my creative playground",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mongru/Hello_Monia.git"
+  },
+  "author": "Monika Grubizna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mongru/Hello_Monia/issues"
+  },
+  "homepage": "https://github.com/mongru/Hello_Monia#readme"
+}
