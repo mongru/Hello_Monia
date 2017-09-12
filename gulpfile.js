@@ -14,7 +14,7 @@ gulp.task('sass', function() {
 });
 
 gulp.task('prod', function(){
-    return gulp.src('scss/style.scss')
+    return gulp.src('scss/main.scss')
         .pipe(sass({
             errLogToConsole: true,
             outputStyle: 'compressed',
